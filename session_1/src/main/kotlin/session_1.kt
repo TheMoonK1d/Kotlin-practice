@@ -24,5 +24,13 @@ fun main (){
     println(x+y)
     println(x+y+z)
 
+    //HomeWork
+
+    val pi = 3.14159265359
+    val radius = 5.5F
+    val pow = radius*radius*radius
+
+    println("The volume of a sphere with radius $radius is ${0.75 * pi*pow}")
+
 
 }
